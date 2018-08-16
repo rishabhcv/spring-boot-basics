@@ -13,7 +13,7 @@ public class BooksController {
 	
 	@GetMapping("/books")
 	public List<Books> getBooks() {
-		return Arrays.asList(new Books(1, "Spring", "Rod Johnson"));
+		return Arrays.asList(new Books(1, "Spring 2.1", "Rod Johnson"));
 	}
 
 }

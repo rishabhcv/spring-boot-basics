@@ -68,3 +68,7 @@ other frameworks is present in a single jar.
 __Q : What is the difference between RequestMapping and GetMapping?__        
 RequestMapping is generic - you can use with GET, POST, PUT or any of the other request methods using the method attribute on the annotation.
 GetMapping is specific to GET request method. It’s just an extension of RequestMapping to improve clarity.      
+
+### Useful Links 
+__1. [Spring Actuator](https://dzone.com/articles/spring-boot-actuator-a-complete-guide)__        
+__2. [Spring Developer-Tools & Live Refresh](https://dzone.com/articles/spring-boot-developer-tools-and-live-reload)__

@@ -23,7 +23,7 @@ We had to do the following to create a Spring application :
 3. Create complete Spring configuration file; define component-scan.        
 4. Create a View Resolver for JSP.       
 5. To Implement Internationalization, we had to implement a message source amd locale resolver.         
-6. Configure web-xml with the Dsipatcher Servlet.     
+6. Configure web-xml with the Dispatcher Servlet.     
 
 
 ### A Simple Rest Service     
